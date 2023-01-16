@@ -17,7 +17,7 @@ Welcome, I'm Hyeran Kang.
 - What centers in such differences? Which personal traits or **neural mechanisms** explain such pheonomenon?
 
 
-### Outside the lab
+### Outside the lab, I love:
 - Tasting something I've never tasted before (Recently, I visited Cuba Cuisine Restaurant in NY - which was awesome)
 - Shopping new ingredients or species (Olive oil, Balsamic Vinegar, Coffee, even Water from different brands)
 - Willpower comes from Power! **Powerlifting** (SQ: 85kg, BP: 50kg, DL: 100kg, Total: 235kg) 
