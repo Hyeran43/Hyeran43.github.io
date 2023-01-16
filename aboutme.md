@@ -19,5 +19,5 @@ Welcome, I'm Hyeran Kang.
 
 ### Outside the lab
 - Tasting something I've never tasted before (Recently, I visited Cuba Cuisine Restaurant in NY - which was awesome)
-- Shopping ingredients or species (Olive oil, Balsamic Vinegar, **Coffee**, even Water)
-- [Willpower comes from Power!] **Powerlifting** (SQ: 85kg, BP: 50kg, DL: 100kg, Total: 235kg) 
+- Shopping new ingredients or species (Olive oil, Balsamic Vinegar, Coffee, even Water from different brands)
+- Willpower comes from Power! **Powerlifting** (SQ: 85kg, BP: 50kg, DL: 100kg, Total: 235kg) 
