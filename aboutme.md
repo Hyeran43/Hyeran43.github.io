@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Get to know me?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, My name is Hyeran Kang. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a graduate student in [Laboratory of Social Decision Neuroscience](http://socialdecisionneurosciencelab.org/)(PI: Hackjin Kim) in Korea University.
+- **Perspective Taking**, **Empathy**, **Social Cognition**, **Anti-social behavior**, **Interoception**, **Social Comparison**, **Hierarchy**, **Self-concept** are the topics of my interest.
+- We live in the world where each individual is different in one's own way, which engenders conflicts evoked from different perspectives but also blossoms our world with the beauty of diversity.
+- It's quite important to note that we are all unique and one in a million, valuing diversity while rejecting conformity.
+- Using **fMRI**, I seek to better understand **individual differences** underlying social cognition such as ToM, Empathy, Social Comparison or self-concept.
+- Some people are good at taking others' stance while some aren't.
+- Some people are sensitive to hierarchy(or ranking), while some aren't.
+- Some people are adept in recognizing one's own internal state, while some aren't.
+- What centers in such differences? Which personal traits or **neural mechanisms** explain such pheonomenon?
 
 What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Outside the lab
+- Tasting something I've never tasted before (Recently, I visited Cuba Cuisine Restaurant in NY - which was awesome)
+- Shopping ingredients or species (Olive oil, Balsamic Vinegar, **Coffee**, even Water)
+- **Powerlifting** (SQ: 85kg, BP: 50kg, DL: 100kg, Total: 235kg) 
