@@ -22,9 +22,10 @@ author: Hyeran Kang
 navbar-links:
   About Me: "aboutme"
   Research:                                                #divides into two section
-    - Project: "https://beautifuljekyll.com"
-    - Presentation: "https://www.markdowntutorial.com/"
-  CV: "https://deanattali.com"
+    - Project: "project"                                   #"https://beautifuljekyll.com"
+    - Presentation: "presentation"                         #"https://www.markdowntutorial.com/"
+  CV: "cv"                                                 #"https://deanattali.com"
+  Personal: "personal"
 
 ################
 # --- Logo --- #
