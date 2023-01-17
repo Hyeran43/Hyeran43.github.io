@@ -10,7 +10,7 @@ Welcome, I'm Hyeran Kang.
 - **Perspective Taking**, **Empathy**, **Anti-social behavior**, **Interoception**, **Social Comparison**, **Hierarchy**, **Self-concept** are the topics of my interest.
 - We live in the world where each individual is different in one's own way, which engenders conflicts evoked from different perspectives but also blossoms our world with the beauty of diversity.
 - It's quite important to note that we are all unique and one in a million, valuing diversity while rejecting conformity.
-- Using **fMRI**, I seek to better understand **individual differences** underlying social cognition such as ToM, Empathy, Social Comparison or self-concept.
+- Using **fMRI**, I seek to better understand **individual differences** underlying social cognition such as ToM, Empathy, Social Comparison or Self-Concept.
 - Some people are good at taking others' stance while some aren't.
 - Some people are sensitive to hierarchy(or ranking), while some aren't.
 - Some people are adept in recognizing one's own internal state, while some aren't.
