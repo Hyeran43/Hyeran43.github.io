@@ -7,7 +7,7 @@ subtitle: Get to know me?
 Welcome, I'm Hyeran Kang. 
 
 - I am a graduate student in [Laboratory of Social Decision Neuroscience](http://socialdecisionneurosciencelab.org/) (PI: Hackjin Kim) at Korea University.
-- **Perspective Taking**, **Empathy**, **Anti-social behavior**, **Interoception**, **Social Comparison**, **Hierarchy**, **Self-concept** are the topics of my interest.
+- **Perspective Taking**, **Empathy**, **Anti-social behavior**, **Interoception**, **Social Comparison**, **Hierarchy**, **Self-concept**, **Consumer Behavior** are the topics of my interest.
 - We live in the world where each individual is different in one's own way, which engenders conflicts derived from different perspectives but also blossoms our world with the beauty of diversity.
 - It's quite important to note that we are all unique and one in a million in some way and embrace each other.
 - Using **fMRI**, I seek to better understand **individual differences** underlying social cognition such as ToM, Empathy, Social Comparison or Self-Concept.
