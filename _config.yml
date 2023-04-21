@@ -25,7 +25,7 @@ navbar-links:
   Research:                                                #divides into two section
     - Project: "/pages/project.md"                                   #"https://beautifuljekyll.com"
     - Presentation: "presentation"                         #"https://www.markdowntutorial.com/"
-  #Personal: "personal"
+  Personal: "/pages/personal.md"
 
 ################
 # --- Logo --- #
