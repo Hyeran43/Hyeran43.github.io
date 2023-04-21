@@ -7,6 +7,8 @@ Negative Pay-It-Forward Reciprocity in Hierarchical Situations
 =====
 *Keyword: Unfairness, Hierarchy, Pay-It-Forward Reciprocity, Dictator Game, Power Dynamics*
 
+Have you ever witnessed someone who has been treated unfairly by anohter person and subsequently projected their negative emotions onto others? 
+
 The concept of 'pay-it-forward reciprocity' describes the phenomenon where an act of kindness offered by one person to another can lead to a chain of similar actions being perpetuated among different individuals. This principle of reciprocation, which is often summarized as "You scratch my back and I'll scratch someone else's," has been shown to promote cooperation and contribute to the foundation of society. However, **the principle of reciprocity also applies to negative actions, whereby negative behaviors can be passed from one person to another in a similar chain**. The spread of unfairness or selfishness has been actively studied for a long time, revealing that negative pay-it-forward reciprocity is also quite pervasive. 
 
 The question arises as to whether **hierarchy(or ranking)** influences the spread of negativity. Using **modified sequential dictator game**, we found that people do not pass on negativity equally to those of different rankings. Despite being negatively biased due to unequal treatment from a previous partner, then interacting with different partners, participants only treated those with a lower ranking unfairly. Conversely, they were more likely to treat those with a higher ranking positively in the same situation. 
