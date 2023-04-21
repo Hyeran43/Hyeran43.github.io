@@ -12,4 +12,4 @@ I'm a MS candidate majoring in Behavioral Cognitive Neuroscience at Korea Univer
 - Feel free to reach out to me anytime: <u>hyerankang43@gmail.com</u>
 
 <i>Here's my favorite quote</i>:
-<center><img src="/photo/lemon.jpg" width="500" align="center"/></center>
+<center><img src="/photo/lemonade.jpg" width="500" align="center"/></center>
