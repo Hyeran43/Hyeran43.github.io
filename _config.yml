@@ -129,16 +129,16 @@ navbar-var-length: false
 
 navbar-col: "#ffd500"    #lemon color
 #navbar-text-col: "#404040"    #dark gray
-navbar-text-col: "#1c3948"    #dark navy
+navbar-text-col: "#023020"    #dark navy
 #navbar-border-col: "#DDDDDD" #light gray 
-navbar-border-col: "#2b4f61" #light navy 
+navbar-border-col: "#fdfd96" #pastel lemon 
 page-col: "#FFFFFF"
 #text-col: "#404040" #dark gray
-text-col: "1c3948"
+text-col: "023020"
 link-col: "#008AFF"
 hover-col: "#0085A1"    
 footer-col: "#ffd500"    #lemon color
-footer-text-col: "#005c13"   #dark green -> 'Hyeran Kang'
+footer-text-col: "#023020"   #dark green -> 'Hyeran Kang'
 footer-link-col: "#005c13"        #green -> icon color of email, twitter
 footer-hover-col: "#0085A1"       #blue -> when cursor closer text changes to blue
 
