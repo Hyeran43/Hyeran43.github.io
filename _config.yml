@@ -23,9 +23,9 @@ navbar-links:
   About Me: "aboutme"
   CV: "/pdfs/HyeranKang_CV_230125.pdf"                                                 #"https://deanattali.com"
   Research:                                                #divides into two section
-    - Project: "/pages/project.md"                                   #"https://beautifuljekyll.com"
+    - Project: "/pages/project"                                   #"https://beautifuljekyll.com"
     - Presentation: "presentation"                         #"https://www.markdowntutorial.com/"
-  Personal: "/pages/personal.md"
+  Personal: "/pages/personal"
 
 ################
 # --- Logo --- #
