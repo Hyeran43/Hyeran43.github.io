@@ -11,5 +11,5 @@ I'm a MS candidate majoring in Behavioral Cognitive Neuroscience at Korea Univer
 - For my Curriculum Vitae, click <a href="pdfs/HyeranKang_CV_230125.pdf">CV</a>
 - Feel free to reach out to me anytime: <u>hyerankang43@gmail.com</u>
 
-Here's my favorite quote:
-<center><img src="/photo/lemon.jpg" width="600" align="center"/></center>
+<i>Here's my favorite quote</i>:
+<center><img src="/photo/lemon.jpg" width="400" align="center"/></center>
