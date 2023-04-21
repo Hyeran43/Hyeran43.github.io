@@ -21,5 +21,5 @@ This suggests that the spread of unfairness is more severe in fields with hierar
 
 Our study provides empirical evidence of negative pay-it-forward reciprocity in hierarchical situations and highlights the impact of individual traits on the perpetuation of such behavior. The implications of our findings extend beyond academia and offer policy insight to break out of this vicious circle, ultimately promoting a fair and just society.
 
-*Under Review*
+*Paper Under Review*
 
