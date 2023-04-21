@@ -15,7 +15,7 @@ The question arises as to whether **hierarchy(or ranking)** influences the sprea
 
 This suggests that the spread of unfairness is more severe in fields with hierarchical structures or power dynamics. For instance, the nursing field has long struggled with this issue, commonly known as "**Taeoom**"(meaning 'burn to ashes') in Korea and "**Horizontal Violence**" in Western countries. Especially in Korea, negative pay-it-forward reciprocity in hierarchical situation is termed as "**Daemullim**". Despite attempts to address this problem, efforts to break the chain of passing down unfairness have failed for centuries.
 
-<img align="center" width="500" src="/photo/01_npif_taeoom.jpg">
+<img align="center" width="600" src="/photo/01_npif_taeoom.jpg">
 
 Our study provides empirical evidence of negative pay-it-forward reciprocity in hierarchical situations and highlights the impact of individual traits on the perpetuation of such behavior. The implications of our findings extend beyond academia and offer policy insight to break out of this vicious circle, ultimately promoting a fair and just society.
 
