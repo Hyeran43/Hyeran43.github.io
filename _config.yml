@@ -21,7 +21,7 @@ author: Hyeran Kang
 
 navbar-links:
   About Me: "aboutme"
-  CV: "/pdfs/HyeranKang_CV_230125.pdf"                                                 #"https://deanattali.com"
+  CV: "/pdfs/HyeranKang_CV_230421.pdf"                                                 #"https://deanattali.com"
   Research:                                                #divides into two section
     - Project01: "/pages/project01"
     - Project02: "/pages/project02"
