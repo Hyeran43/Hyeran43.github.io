@@ -1,6 +1,6 @@
 ---
-page
-title
+layout: page
+title: "Project02"
 ---
 
 Neural Representation 
