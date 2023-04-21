@@ -135,9 +135,9 @@ text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"    
 footer-col: "#ffd500"    #lemon color
-footer-text-col: "#043007"   #dark green -> 'Hyeran Kang'
-footer-link-col: "#005c13"        #green
-footer-hover-col: "#0085A1"
+footer-text-col: "#005c13"   #dark green -> 'Hyeran Kang'
+footer-link-col: "#005c13"        #green -> icon color of email, twitter
+footer-hover-col: "#0085A1"       #blue -> when cursor closer text changes to blue
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
