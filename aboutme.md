@@ -21,3 +21,5 @@ Welcome, I'm Hyeran Kang.
 - Tasting something I've never tasted before (Recently, I visited Cuba Cuisine Restaurant in NY - which was awesome)
 - Shopping new ingredients or spices (Olive oil, Balsamic Vinegar, Coffee, even Water from different brands)
 - Willpower comes from Power! **Powerlifting** (SQ: 95kg, BP: 50kg, DL: 105kg, Total: 250kg) 
+
+More details in personal page: <a href="pages/personal">PERSONAL</a>
