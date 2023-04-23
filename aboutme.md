@@ -22,4 +22,4 @@ Welcome, I'm Hyeran Kang.
 - Shopping new ingredients or spices (Olive oil, Balsamic Vinegar, Coffee, even Water from different brands)
 - Willpower comes from Power! **Powerlifting** (SQ: 95kg, BP: 50kg, DL: 105kg, Total: 250kg) 
 
-More details about my extra-research activities: <a href="pages/personal.md">HERE</a>
+More details about my extra-research activities: <a href="../pages/personal">HERE</a>
