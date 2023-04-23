@@ -17,7 +17,7 @@ I've also taken classes on making coffee cocktails.
 
 <center><img src="/photo/personal_coffeecocktail.jpg" width=700 align="center"/></center>
 
-As a tea and coffee enthusiast, I'm always eager to try new things.
+As a tea & coffee & taste enthusiast, I'm always eager to try new drinks or cuisine.
 
 <center><img src="/photo/personal_teacoffee.jpg" width=700 align="center"/></center>
 
