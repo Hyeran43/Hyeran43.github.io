@@ -9,7 +9,7 @@ Negative Pay-It-Forward Reciprocity in Hierarchical Situations
 
 <center><img src="/photo/01_npif_taeoom.jpg" width=700 align="center"/></center>
 
-Have you ever witnessed someone who has been treated unfairly by anohter person and subsequently projected their negative emotions onto others? 
+Have you ever witnessed someone who has been treated unfairly by another person and subsequently projected their negative emotions onto others? 
 
 The concept of 'pay-it-forward reciprocity' describes the phenomenon where an act of kindness offered by one person to another can lead to a chain of similar actions being perpetuated among different individuals. This principle of reciprocation, which is often summarized as "You scratch my back and I'll scratch someone else's," has been shown to promote cooperation and contribute to the foundation of society. However, **the principle of reciprocity also applies to negative actions, whereby negative behaviors can be passed from one person to another in a similar chain**. The spread of unfairness or selfishness has been actively studied for a long time, revealing that negative pay-it-forward reciprocity is also quite pervasive. 
 
