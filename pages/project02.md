@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Project02"
-subtitle: "Poster will be presented in 2023 SANS Apr.27 (14:30~16:00) 1-F-26"
+subtitle: "Poster presented in 2023 SANS"
 ---
 
 
