@@ -3,7 +3,7 @@ layout: page
 title: "Outside of the lab"
 ---
 
-I'm an ambitious and dedicated graduate student with a strong passion for research. At the same time, I've come to realize that being too fixated on details and not taking breaks can stifle creativity, lead to biases in decision-making, and ultimately lead to burnout. That's why I believe it's crucial to balance intense focus with moments of relaxation and reflection. Having a hobby is one way I achieve that balance, and for me, that hobby is **powerlifting**.
+I'm an ambitious and dedicated graduate student with a strong passion for research. At the same time, I've come to realize that being too fixated on details and not taking breaks can stifle creativity, lead to biases in decision-making, and ultimately lead to burnout. That's why I believe it's crucial to balance intense focus with moments of relaxation and reflection. Having a hobby is one way I achieve that balance, and for me, that hobby is **powerlifting**!
 
 <center><img src="/photo/personal_powerlifting.jpg" width=700 align="center"/></center>
 
