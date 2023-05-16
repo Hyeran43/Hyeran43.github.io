@@ -7,13 +7,14 @@ subtitle: Get to know me?
 Welcome, I'm Hyeran Kang. 
 
 - I am a graduate student in [Laboratory of Social Decision Neuroscience](http://socialdecisionneurosciencelab.org/) (PI: Hackjin Kim) at Korea University.
-- **Decision-Making**, **Perspective Taking**, **Empathy**, **Interoception**, **Social Comparison**, **Hierarchy**, **Self-concept**, **Consumer Behavior** are the topics of my interest.
+- **Decision-Making**, **Self-concept**, **Perspective Taking**, **Empathy**, **Interoception**, **Social Comparison**, **Hierarchy**, **Consumer Behavior** are the topics of my interest.
 - In our world, each individual is unique, which can lead to conflicts due to differing perspectives, but also enriches our world with the beauty of diversity. 
 - Although we all live in the same world, each person's experiences shape their own distinct reality, influencing the decisions they make on a daily basis.
 - Using **fMRI**, I seek to better understand **individual differences** underlying Self-Concept or Social Cognition such as ToM, Empathy, Social Comparison.
 - Some people are better at taking others' perspectives while others  aren't.
-- Some people are sensitive to hierarchy(or ranking), while others aren't.
-- Some people are adept in recognizing one's own internal state, while others aren't.
+- Some are adept in recognizing one's own internal state, while others aren't.
+- Some value present states over future states, while others put more weight on the latter.
+- Some are sensitive to hierarchy(or ranking), while others aren't.
 - What centers in such differences? Which personal traits or **neural mechanisms** explain such pheonomenon?
 
 
