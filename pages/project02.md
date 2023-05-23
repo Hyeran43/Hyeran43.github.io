@@ -13,7 +13,7 @@ Neural Representations in MPFC and insula encode individual differences in estim
 
 Suppose you are dining with a date or business partner, and you want to make a good impression on them. The only information you have about them is their face in a photograph. Can you accurately guess what this specific person would like?
 
-The ability to estimate others' preferences accurately is essential for successful social interactions, and it is commonly done for close friends and family based on past experiences. However, sometimes it is necessary to guess the tastes of unknown individuals for various things. Past studies have shown that people can infer various information, such as personality, socioeconomic status, and preferences, from a brief exposure to a stranger's appearance. Accuracy of estimating others' preferences has been studied using univariate approach by Kang et al(2013). 
+The ability to estimate others' preferences accurately is essential for successful social interactions, and it is commonly done for close friends and family based on past experiences. However, sometimes it is necessary to guess the tastes of unknown individuals for various things. Past studies have shown that people can infer various information, such as personality, socioeconomic status, and preferences, from a brief exposure to a stranger's appearance. Accuracy of estimating others' preferences has been studied using univariate approach by Kang et al (2013). 
 
 However, recently, a multivariate approach called multi-voxel pattern analysis (MVPA) has been proposed as a more robust method to investigate individual differences. In our study, we aimed to investigate the neural mechanisms underlying individual differences in preference estimation accuracy using this multivariate approach. Our main question was which brain regions were activated in participants with similar preference estimation accuracy.
 
@@ -27,7 +27,9 @@ Finally, we performed multivariate approach: intersubject representational simil
 
 <center><img src="/photo/02_pref_mvpa_results.jpg" width=800 align="center"/></center>
 
-Our results showed that the pariticipants with similar score displayed similar patterns in **pgACC** and **Insula** . These areas are the core regions containing Von Economo Neurons (VEN), which have been implicated in interoception, the ability to sense one's own visceral signals.
+Our results showed that the pariticipants with similar score displayed similar patterns in **pgACC**, **Insula** and **lateral OFC**. Particularly, pgACC and insula areas are the core regions containing Von Economo Neurons (VEN), which have been implicated in interoception, the ability to sense one's own visceral signals. Also OFC is known to play a vital role in social cognition by representing inferences about traits or others.
+ 
+
 
 
 *Paper in Preparation*
