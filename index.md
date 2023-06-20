@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hyeran Kang
+title: HyeRan Kang
 subtitle: Graduate Student / Social Neuroscience
 
 ---
