@@ -4,7 +4,7 @@ title: About me
 subtitle: Get to know me?
 ---
 
-Welcome, I'm Hyeran Kang. 
+Welcome, I'm HyeRan Kang. 
 
 - I am a graduate student in [Laboratory of Social Decision Neuroscience](http://socialdecisionneurosciencelab.org/) (PI: Hackjin Kim) at Korea University.
 - **Decision-Making**, **Bias**, **Self**, **Social Cognition**, **Interoception**, **Consumer Behavior** are the topics of my interest.
