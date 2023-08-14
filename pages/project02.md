@@ -29,6 +29,7 @@ Finally, we performed multivariate approach: intersubject representational simil
 Our results showed that the pariticipants with similar score displayed similar patterns in **pgACC**, **Insula** and **lateral OFC**. Particularly, pgACC and insula areas are the core regions containing Von Economo Neurons (VEN), which have been implicated in interoception, the ability to sense one's own visceral signals. Also OFC is known to play a vital role in social cognition by representing inferences about traits of others.
  
 
-
 Poster can be found here: <a href="../pages/presentation.md">POSTER</a>
+
+
 *Paper in Preparation*
