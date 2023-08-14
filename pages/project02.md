@@ -8,7 +8,6 @@ subtitle: "Poster presented in 2023 SANS"
 Neural Representations in MPFC and insula encode individual differences in estimating others' preferences 
 =====
 *Keyword: Preference Estimation, inter-subject Representational Similarity Analysis, MPFC, pgACC, insula*
-
 <center><img src="/photo/02_pref_guess_illustr.jpg" width=500 align="center"/></center>
 
 Suppose you are dining with a date or business partner, and you want to make a good impression on them. The only information you have about them is their face in a photograph. Can you accurately guess what this specific person would like?
@@ -31,5 +30,5 @@ Our results showed that the pariticipants with similar score displayed similar p
  
 
 
-
+Poster can be found here: <a href="../pages/presentation.md">POSTER</a>
 *Paper in Preparation*
