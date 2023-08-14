@@ -25,7 +25,7 @@ navbar-links:
   Research:                                                #divides into two section
     - Project01: "/pages/project01"
     - Project02: "/pages/project02"
-    - Presentation: "presentation"                         #"https://www.markdowntutorial.com/"
+    - Presentation: "/pages/presentation"                         #"https://www.markdowntutorial.com/"
   Personal: "/pages/personal"
 
 ################
