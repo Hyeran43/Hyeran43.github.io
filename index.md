@@ -6,7 +6,7 @@ subtitle: Graduate Student / Social Neuroscience
 ---
 
 Hi, welcome!
-I'm a MS candidate majoring in Behavioral Cognitive Neuroscience at Korea University <i>(Advisor: Hackjin Kim)</i>. 
+I'm a MS researcher in Behavioral Cognitive Neuroscience at Korea University <i>(Advisor: Hackjin Kim)</i>. 
 - More detail about me: <a href="/aboutme">ABOUTME</a>
 - My curriculum vitae: <a href="files/HyeranKang_CV_230721.pdf">CV</a>
 - My research project 01 (unfairness & hierarchy): <a href="pages/project01">PROJECT01</a>
