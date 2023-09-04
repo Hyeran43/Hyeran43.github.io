@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HyeRan Kang
+title: Hyeran Kang
 subtitle: Social Neuroscience & NeuroEconomics
 
 ---
