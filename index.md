@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HyeRan Kang
-subtitle: Graduate Student / Social Neuroscience
+subtitle: Graduate Student / Social Neuroscience & NeuroEconomics
 
 ---
 
