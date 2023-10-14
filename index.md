@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hyeran Kang
-subtitle: Social Neuroscience & NeuroEconomics
+subtitle: Social Neuroscience & Decision-Making
 
 ---
 
