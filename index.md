@@ -8,7 +8,7 @@ subtitle: Social Neuroscience & Decision-Making
 Hi, welcome!
 I'm a MS researcher in Behavioral Cognitive Neuroscience at Korea University <i>(Advisor: Hackjin Kim)</i>. 
 - More detail about me: <a href="/aboutme">ABOUTME</a>
-- My curriculum vitae: <a href="files/HyeranKang_CV_230721.pdf">CV</a>
+- My curriculum vitae: <a href="files/CV_HyeranKang_Oct2023.pdf">CV</a>
 - My research project 01 (unfairness & hierarchy): <a href="pages/project01">PROJECT01</a>
 - My research project 02 (preference estimation): <a href="pages/project02">PROJECT02</a>
 - Poster can be found here: <a href="pages/presentation">PRESENTATION</a>
